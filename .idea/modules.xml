@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinaryTree/BinaryTree.iml" filepath="$PROJECT_DIR$/BinaryTree/BinaryTree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Date/Date.iml" filepath="$PROJECT_DIR$/Date/Date.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person/Person.iml" filepath="$PROJECT_DIR$/Person/Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practic4.iml" filepath="$PROJECT_DIR$/Practic4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WordsAnalize/WordsAnalize.iml" filepath="$PROJECT_DIR$/WordsAnalize/WordsAnalize.iml" />
+    </modules>
+  </component>
+</project>
